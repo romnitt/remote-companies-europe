@@ -33,3 +33,39 @@ Your all-in-one platform for user engagement
 
 **[Atlas Metrics](https://atlasmetrics.io/)** *(Preference for Berlin on-site)*  
 The All-In-One ESG Platform
+
+**[Automattic](https://automattic.com/work-with-us/)**  
+The company behind Wordpress
+
+**[Beautiful.ai](https://beautiful.ai/work-with-us/)**  
+AI Presentation Maker
+
+**[Bending Spoons](https://bendingspoons.com/)**  
+We own and operate leading digital products, including Evernote, Meetup, Remini, Splice, StreamYard, and WeTransfer.
+
+**[Better Stack](https://betterstack.com/)**  
+Radically better observability stack
+
+**[Bilby](https://bilby.ai/)**  
+Bilby is a best-in-class government early signal and analysis company
+
+**[Bird](https://bird.com/)**  
+AI-First CRM for Marketing, Services & Payments
+
+**[Brave](https://brave.com/careers/)**  
+A private internet browser
+
+**[Buffer](https://buffer.com/)**  
+Social media management for everyone
+
+**[Butter](https://butter.us/)**  
+Virtual collaboration as smooth as butter
+
+**[Capchase](https://capchase.com/)**  
+SaaS Funding and B2B Flexible Payments
+
+**[Causal](https://causal.app/)**  
+The finance platform for startups
+
+**[Chameleon](https://chameleon.io/)**  
+The Deepest Product Adoption Platform
