@@ -31,5 +31,5 @@ AI Sales Copilot for sales teams
 **[Appcues](https://appcues.com/)**  
 Your all-in-one platform for user engagement
 
-**[Atlas Metrics](https://atlasmetrics.io/)** (Preference for Berlin on-site)  
+**[Atlas Metrics](https://atlasmetrics.io/)** *(Preference for Berlin on-site)*  
 The All-In-One ESG Platform
