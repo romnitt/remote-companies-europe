@@ -4,43 +4,19 @@ A non-exhaustive list of companies that hire for remote positions in Europe.
 
 | Company  | What they do | Glassdoor |
 | ------------- | ------------- | ------------- |
-| **[7shifts](https://www.7shifts.com/)** | Restaurant Scheduling, Payroll & Retention tools  | 3.3 ⚫⚫⚫⚪⚪ ◉◉○○○ |
-| **[15five](https://www.15five.com/)** | The performance management platform built for business impact  | [Website](https://www.15five.com/) |
-| **[Ada](https://about.ada.com/careers)** | Supporting better health outcomes and clinical excellence with intelligent technology  | [Website](https://about.ada.com/careers) |
+| **[7shifts](https://www.7shifts.com/)** | Restaurant Scheduling, Payroll & Retention tools | ◉◉◉○○ 3.3 |
+| **[15five](https://www.15five.com/)** | The performance management platform built for business impact | ◉◉○○○ 2.7 |
+| **[Ada](https://about.ada.com/careers)** | Supporting better health outcomes and clinical excellence with intelligent technology | N/A |
+| **[Aha!](https://www.aha.io/)** | The World's #1 Product Development Software | ◉◉◉◉○ 4.6 |
+| **[Ahrefs](https://ahrefs.com/)** | Marketing Intelligence Tools Powered by Big Data | ◉◉◉◉◉ 4.9 |
+| **[Airalo](https://airalo.com/)** | Buy eSIMs for international travel | ◉◉◉◉○ 3.9  |
+| **[Airbase](https://airbase.com/)** | Procure-to-Pay, AP Automation & Finance Solutions | ◉◉◉◉○ 4.2 |
+| **[Alguna](https://alguna.io/)** | Modern SaaS Pricing, Quoting & Billing Platform | N/A |
+| **[Amplemarket](https://amplemarket.com/)** | AI Sales Copilot for sales teams | ◉◉◉◉◉ 4.9 |
+| **[Appcues](https://appcues.com/)** | Your all-in-one platform for user engagement | ◉◉◉◉◉ 4.9 |
+| **[Atlas Metrics](https://atlasmetrics.io/)** |*Preference for Berlin on-site* • The All-In-One ESG Platform | ◉◉◉◉○ 4.4 |
 
 
-**[7shifts](https://www.7shifts.com/)**  
-Restaurant Scheduling, Payroll & Retention tools
-
-**[15five](https://www.15five.com/)**  
-The performance management platform built for business impact
-
-**[Ada](https://about.ada.com/careers)**  
-Supporting better health outcomes and clinical excellence with intelligent technology
-
-**[Aha!](https://www.aha.io/)**  
-The World's #1 Product Development Software
-
-**[Ahrefs](https://ahrefs.com/)**  
-Marketing Intelligence Tools Powered by Big Data
-
-**[Airalo](https://airalo.com/)**  
-Buy eSIMs for international travel
-
-**[Airbase](https://airbase.com/)**  
-Procure-to-Pay, AP Automation & Finance Solutions
-
-**[Alguna](https://alguna.io/)**  
-Modern SaaS Pricing, Quoting & Billing Platform
-
-**[Amplemarket](https://amplemarket.com/)**  
-AI Sales Copilot for sales teams
-
-**[Appcues](https://appcues.com/)**  
-Your all-in-one platform for user engagement
-
-**[Atlas Metrics](https://atlasmetrics.io/)** *(Preference for Berlin on-site)*  
-The All-In-One ESG Platform
 
 **[Automattic](https://automattic.com/work-with-us/)**  
 The company behind Wordpress
