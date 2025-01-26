@@ -44,6 +44,24 @@ A non-exhaustive list of companies that hire for remote positions in Europe.
 | **[Docker](https://www.docker.com/careers/)** | Container technology for software development | ◉◉◉○○ 3.2 |
 | **[Dradis](https://www.dradis.com/careers/)** | Faster pentest reporting and painless collaboration | N/A |
 | **[DuckDuckGo](https://www.duckduckgo.com/hiring/)** | Search engine | ◉◉◉◉○ 4.6 |
-
-
+| **[Elastic](https://jobs.elastic.co/)** | The Search AI Company | ◉◉◉○○ 3.8 |
+| **[Eraser](https://www.eraser.io/)** | AI co-pilot‍ for technical design |N/A |
+| **[Fibery](https://www.fibery.io/)** | A work platform that replaces isolated tools and connects teams | ◉◉◉◉◉ 5.0 |
+| **[Float](https://www.float.com/)** | Plan, schedule, and track your projects | ◉◉◉◉○ 4.7 |
+| **[Flowstep](https://www.flowstep.ai/)** | AI UI design tool | N/A |
+| **[Framer](https://www.framer.com/careers/)** | Tool for designing and publishing websites | ◉◉◉◉○ 4.3 |
+| **[Ghost](https://careers.ghost.org/)** | Independent technology for modern publishing |N/A |
+| **[GitBook](https://www.gitbook.com/)** | We’re building the future of documentation | ◉◉◉◉○ 4.6 |
+| **[GitHub](https://www.github.careers/careers-home/)** | Developer platform (You are here!) | ◉◉◉◉○ 3.9 |
+| **[GitLab](https://www.about.gitlab.com/jobs/)** | DevSecOps Platform | ◉◉◉◉○ 4.2 |
+| **[Hashnode](https://hashnode.com/)** | Build blogs, API docs, and product guides | ◉◉◉◉○ 4.1 |
+| **[Help Scout](https://www.helpscout.com/company/careers/)** | Customer support platform | ◉◉◉○○ 3.0 |
+| **[Heyflow](https://heyflow.com/jobs/)** | Lead generation platform | ◉◉◉◉◉ 5.0 |
+| **[Hostaway](https://www.hostaway.com/)** | Vacation rental software | ◉◉◉◉○ 4.7 |
+| **[Hubstaff](https://hubstaff.com/jobs/)** | Time tracking software | ◉◉◉◉○ 4.2 |
+| **[Hugging Face](https://huggingface.co/)** | AI community platform | ◉◉◉◉○ 4.4 |
+| **[Hygraph](https://jobs.hygraph.com/)** |  Headless CMS | ◉◉◉◉○ 4.4 |
+| **[Interaction Design Foundation](https://www.interaction-design.org/about/careers/)** |  Online UX design courses  | ◉◉◉○○ 3.6 |
+| **[Jitter](https://jitter.video/)** |  Browser-based video and animation software | N/A |
+| **[Kinsta](https://kinsta.com/careers/)** |  Hosting provider | ◉◉◉◉○ 4.1 |
 | **[Kit](https://www.kit.com/careers/)** | Email-first operating system for creators | ◉◉◉◉◉ 4.9 |
