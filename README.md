@@ -4,7 +4,7 @@ A non-exhaustive list of companies that hire for remote positions in Europe.
 
 | Company  | What they do | Glassdoor |
 | ------------- | ------------- | ------------- |
-| **[7shifts](https://www.7shifts.com/)** | Restaurant Scheduling, Payroll & Retention tools  | 3.3 ⚫⚫⚫⚪⚪ |
+| **[7shifts](https://www.7shifts.com/)** | Restaurant Scheduling, Payroll & Retention tools  | 3.3 ⚫⚫⚫⚪⚪ ◉◉○○○ |
 | **[15five](https://www.15five.com/)** | The performance management platform built for business impact  | [Website](https://www.15five.com/) |
 | **[Ada](https://about.ada.com/careers)** | Supporting better health outcomes and clinical excellence with intelligent technology  | [Website](https://about.ada.com/careers) |
 
