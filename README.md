@@ -43,7 +43,7 @@ A non-exhaustive list of companies that hire for remote positions in Europe.
 | **[Dice](https://www.dice.fm/jobs/)** | Find more of the events you love | ◉◉○○○ 2.7 |
 | **[Docker](https://www.docker.com/careers/)** | Container technology for software development | ◉◉◉○○ 3.2 |
 | **[Dradis](https://www.dradis.com/careers/)** | Faster pentest reporting and painless collaboration | N/A |
-| **[Deel](https://www.duckduckgo.com/hiring/)** | Search engine | ◉◉◉◉○ 4.6 |
+| **[DuckDuckGo](https://www.duckduckgo.com/hiring/)** | Search engine | ◉◉◉◉○ 4.6 |
 
 
 | **[Kit](https://www.kit.com/careers/)** | Email-first operating system for creators | ◉◉◉◉◉ 4.9 |
