@@ -25,6 +25,7 @@ A non-exhaustive list of companies that hire for remote positions in Europe.
 | **[Buffer](https://buffer.com/)** | Social media management for everyone | ◉◉◉○○ 3.8 |
 | **[Butter](https://butter.us/)** | Virtual collaboration as smooth as butter | N/A |
 | **[Capchase](https://capchase.com/)** | SaaS Funding and B2B Flexible Payments | ◉◉◉○○ 3.4 |
+| **[Cast AI](https://cast.ai/)** | Intelligent Kubernetes automation | ◉◉◉◉○ 4.2 |
 | **[Causal](https://causal.app/)** | The finance platform for startups | N/A |
 | **[Chameleon](https://chameleon.io/)** | The Deepest Product Adoption Platform | ◉◉◉◉◉ 4.9 |
 | **[Checkly](https://www.checklyhq.com/)** | Code-first synthetic monitoring for modern DevOps | ◉◉◉◉◉ 4.8 |
