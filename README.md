@@ -55,6 +55,7 @@ A non-exhaustive list of companies that hire for remote positions in Europe.
 | **[GitBook](https://www.gitbook.com/)** | We’re building the future of documentation | ◉◉◉◉○ 4.6 |
 | **[GitHub](https://www.github.careers/careers-home/)** | Developer platform (You are here!) | ◉◉◉◉○ 3.9 |
 | **[GitLab](https://www.about.gitlab.com/jobs/)** | DevSecOps Platform | ◉◉◉◉○ 4.2 |
+| **[Goodnotes](https://goodnotes.com/)** | Note-taking app for iPad | ◉◉◉◉◉ 5.0 |
 | **[Hashnode](https://hashnode.com/)** | Build blogs, API docs, and product guides | ◉◉◉◉○ 4.1 |
 | **[Help Scout](https://www.helpscout.com/company/careers/)** | Customer support platform | ◉◉◉○○ 3.0 |
 | **[Heyflow](https://heyflow.com/jobs/)** | Lead generation platform | ◉◉◉◉◉ 5.0 |
