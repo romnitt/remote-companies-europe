@@ -1,0 +1,21 @@
+{
+	"name": "remote-companies-europe",
+	"version": "1.0.0",
+	"description": "A non-exhaustive list of companies that hire for remote positions in Europe.",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/romnitt/remote-companies-europe.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"bugs": {
+		"url": "https://github.com/romnitt/remote-companies-europe/issues"
+	},
+	"homepage": "https://github.com/romnitt/remote-companies-europe#readme"
+}
