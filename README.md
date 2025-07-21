@@ -1,8 +1,8 @@
 | Company | What they do | Glassdoor |
 |---|---|---|
-| [**7Shifts**](https://www.7shifts.com/) | [cite_start]Restaurant Scheduling, Payroll & Retention tools [cite: 3] | |
+| [**7Shifts**](https://www.7shifts.com/) | Restaurant Scheduling, Payroll & Retention tools | |
 | [**10up**](https://10up.com/) | A full-service digital agency that creates websites and tools for content creators. | |
-| [**15five**](https://www.15five.com/about/careers/#open-positions) | [cite_start]The performance management platform built for business impact [cite: 4] | |
+| [**15five**](https://www.15five.com/about/careers/#open-positions) | The performance management platform built for business impact [cite: 4] | |
 | [**Ada**](https://ada.com/careers/#want-to-joinada) | [cite_start]Supporting better health outcomes with intelligent technology [cite: 5] | |
 | [**Aha**](https://www.aha.io/company/careers/current-openings) | The World's #1 Product Development Software | |
 | [**Ahrefs**](https://ahrefs.com/jobs) | Marketing Intelligence Tools Powered by Big Data | |
